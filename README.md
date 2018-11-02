@@ -4,14 +4,18 @@ A project to work with Pandas utilities
 This project is for trying out features of the Python Pandas package.
 
 ##Setup
-Run the project after installing the required libraries. Like this:
+Install the required libraries like this:
 ```
 pip install requirements.txt
 ```
+Launh the Jupyter notebook.
+```
+ipython notebook
+```
 
-Or view the project on Binder by clicking this URL.
+It is much easier to view the project on Binder by clicking this URL.
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/shankarps/PandasUtilities/master?urlpath=rstudio)
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/shankarps/PandasUtilities/master)
 
 
 
