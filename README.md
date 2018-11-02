@@ -1,4 +1,4 @@
-# PandasUtilities
+# Pandas Utilities
 A project to work with Pandas utilities
 
 This porject is for trying out features of the Python Pandas package.
