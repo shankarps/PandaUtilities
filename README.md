@@ -1,7 +1,18 @@
 # Pandas Utilities
 A project to work with Pandas utilities
 
-This porject is for trying out features of the Python Pandas package.
+This project is for trying out features of the Python Pandas package.
+
+##Setup
+Run the project after installing the required libraries. Like this:
+```
+pip install requirements.txt
+```
+
+Or view the project on Binder by clicking this URL.
+
+[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/shankarps/PandasUtilities/master?urlpath=rstudio)
+
 
 
 ##Credits/Acknowledgements
