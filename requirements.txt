@@ -1,3 +1,6 @@
 matplotlib=>3.0
 numpy=>1.15
 pandas=>0.23
+ipython=>7.1
+jupyter
+notebook
